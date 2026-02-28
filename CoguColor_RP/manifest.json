@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Luzes de Shroomlight - Resource Pack",
+    "description": "Texturas vibrantes e emissão de luz para todas as novas variantes de cogubrilhos tingidos.",
+    "uuid": "1e9a3028-d34e-4f76-857c-87d3df13645b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 40]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d50e82c7-ef8a-4934-8c83-500bdf192139",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "4f762a4d-90cf-46d5-a918-62bf0fb206cb",
+      "version": [1, 0, 0]
+    }
+  ]
+}

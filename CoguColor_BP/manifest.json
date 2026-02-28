@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Luzes de Shroomlight - Behavior Pack",
+    "description": "Expanda sua decoração: crie lâmpadas orgânicas brilhantes unindo corantes e cogubrilhos na bancada de trabalho.",
+    "uuid": "4f762a4d-90cf-46d5-a918-62bf0fb206cb",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 40]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "8ab9c71a-6372-4d51-898f-370150931131",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1e9a3028-d34e-4f76-857c-87d3df13645b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
